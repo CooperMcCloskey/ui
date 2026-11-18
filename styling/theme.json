@@ -1,0 +1,44 @@
+{
+  "colors": {
+    "light": {
+      "background": "#f7f0e1",
+      "gray0": "#e8dfcd",
+      "gray1": "#d4c9b6",
+      "gray2": "#a69b85",
+      "gray3": "#756b57",
+      "gray4": "#1f1e1d"
+    },
+    "dark": {
+      "background": "#1d1c1f",
+      "gray0": "#292936",
+      "gray1": "#3b3b4f",
+      "gray2": "#4f4f69",
+      "gray3": "#8585a3",
+      "gray4": "#c2c2c9"
+    },
+    "accents": {
+      "red": "#c85040",
+      "yellow": "#c8b63f",
+      "blue": "#504d61",
+      "green": "#4d6158"
+    }
+  },
+  "font": {
+    "fontFamily": "'Charter'",
+    "monoFontFamily": "'Iosevka'",
+    "lineHeight": "1.2",
+    "largeText": "2rem",
+    "mediumText": "1.375rem",
+    "standardText": "1rem",
+    "smallText": "0.75rem"
+  },
+  "layout": {
+    "gridRows": "19",
+    "gridColumns": "26",
+    "gridGap": "4px",
+    "standardPadding": "4px",
+    "borderWidth": "2px",
+    "iconSpacing": "2px",
+    "iconSize": "24px"
+  }
+}
